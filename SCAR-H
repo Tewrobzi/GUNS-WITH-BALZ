@@ -1,0 +1,6 @@
+local Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))()
+local debrisService = game:GetService("Debris")
+local UserInputService = game:GetService("UserInputService")
+local runservice = game:GetService("RunService")
+
+local SCARH = game:GetObjects("rbxassetid://13125400869")[1] or LoadCustomInstance("rbxassetid://13125400869")
